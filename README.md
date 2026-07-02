@@ -1,6 +1,6 @@
 # EEG Denoising Benchmark Utility
 
-This repository contains the analysis code for controlled-capacity EEG denoising benchmarks, baseline retraining, downstream BCI utility evaluation, deployment profiling, and statistical aggregation. Large datasets, trained checkpoints, and raw run directories are intentionally not versioned.
+This repository contains the analysis code for controlled-capacity EEG denoising benchmarks, baseline retraining, downstream BCI utility evaluation, deployment profiling, and statistical aggregation. Large datasets, trained checkpoints, and raw run directories are not included
 
 ## Repository Layout
 
