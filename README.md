@@ -1,6 +1,6 @@
 # EEG Denoising Benchmark Utility
 
-This repository contains the analysis code for controlled-capacity EEG denoising benchmarks, baseline retraining, downstream BCI utility evaluation, deployment profiling, and statistical aggregation. Large datasets, trained checkpoints, and raw run directories are not included
+This repository contains the analysis code for controlled-capacity EEG denoising benchmarks, baseline retraining, downstream BCI utility evaluation, deployment profiling, and statistical aggregation. Large datasets, trained checkpoints, and raw run directories are not included.
 
 ## Repository Layout
 
@@ -10,6 +10,8 @@ scripts/                     Training, evaluation, downstream BCI, profiling, st
 configs/templates/           Minimal local-path templates for reproducible runs
 data/README.md               Dataset preparation notes and expected array layout
 results/README.md            Expected location for regenerated summaries
+results/manuscript_figure_data/  Stored aggregate CSVs used for manuscript figures
+docs/REPRODUCIBILITY.md      Analysis map and statistical guardrails
 ```
 
 ## Installation
@@ -21,10 +23,10 @@ python -m pip install -U pip
 python -m pip install -e .
 ```
 
-Install the optional downstream dependencies when running Braindecode classifiers:
+Install the optional dependencies needed for downstream, Sleep-EDF, or ONNX-export scripts:
 
 ```bash
-python -m pip install ".[bci]"
+python -m pip install ".[bci,sleep,onnx]"
 ```
 
 The original experiments were run with PyTorch/CUDA on an NVIDIA RTX A5000 workstation. 
@@ -102,4 +104,6 @@ python scripts/profile_model_complexity.py --output-dir runs/complexity_profile
 
 ## Reproducibility Notes
 
-The primary analysis uses seeds `42, 43, 44, 45, 46` for n=5 width sweeps and `42, 43, 44` for exploratory ablations and controlled baselines unless stated otherwise. Scripts write JSON/CSV summaries under the requested `output_dir`; statistical aggregation scripts consume those summaries for reported analyses.
+The primary analysis treats human participants as the inferential unit: BCI IV-2a/IV-2b effects use nine subjects and Sleep-EDF effects use 75 subjects. Contamination realizations, denoiser checkpoints, channels, and classifier seeds are nuisance repetitions averaged or modelled within subject. The controlled reconstruction sweep has five EEGDenoiseNet seeds, while formal adjacent-width comparisons use the three matched seeds `42, 43, 44`; see `docs/REPRODUCIBILITY.md`.
+
+The stored aggregate CSVs in `results/manuscript_figure_data/` are sufficient to audit the displayed manuscript values without downloading private recordings, checkpoints, raw run directories, or correspondence. Scripts write JSON/CSV summaries under the requested `output_dir`; statistical aggregation scripts consume those summaries for reported analyses.

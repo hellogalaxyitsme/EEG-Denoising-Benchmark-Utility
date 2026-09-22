@@ -1,0 +1,101 @@
+﻿row_type,dataset,subject,base,CC,SDR,n_checkpoints,train_seeds,CC_mean,CC_ci95_low,CC_ci95_high,SDR_mean,SDR_ci95_low,SDR_ci95_high,n_subjects,source_file
+subject,BCI_IV2a,A01,2,0.6846669382519193,2.561195479498969,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A01,4,0.7295436792903477,3.289498700035943,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A01,6,0.7366874085532295,3.4346439838409424,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A01,8,0.742039269871182,3.531625297334459,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A01,16,0.741284085644616,3.5732365714179144,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A02,2,0.6626495454046462,2.4964814715915256,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A02,4,0.690681517124176,2.992553340064154,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A02,6,0.6938196221987407,3.0542319880591497,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A02,8,0.6844287912050883,3.0215955045488148,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A02,16,0.672268807888031,2.9169705973731146,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A03,2,0.6804080075687833,2.5982319513956704,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A03,4,0.6976540949609544,2.885181771384345,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A03,6,0.6970135834481981,2.893907149632772,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A03,8,0.6926326221889919,2.877418120702108,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A03,16,0.6817335486412048,2.77156310611301,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A04,2,0.7671263813972473,3.621129565768772,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A04,4,0.8100486662652757,4.692831039428711,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A04,6,0.8184601532088386,4.915920257568359,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A04,8,0.8214663929409451,5.012423992156982,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A04,16,0.8223958479033576,5.081780009799534,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A05,2,0.5693955421447754,1.3557729985978868,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A05,4,0.6148624685075548,1.9556189907921688,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A05,6,0.6114286382993063,2.018024894926283,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A05,8,0.6269554628266228,2.16446942753262,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A05,16,0.6362347536616855,2.339195516374376,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A06,2,0.6977217197418213,2.7794708675808377,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A06,4,0.7174489961730109,2.9084503915574818,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A06,6,0.7208980454338921,2.9139219654930963,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A06,8,0.7207813130484687,2.8342357211642795,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A06,16,0.718599345948961,2.80270971192254,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A07,2,0.7513853046629164,3.493058522542318,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A07,4,0.7872412602106731,4.294286674923368,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A07,6,0.7906558977233039,4.3821832868787975,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A07,8,0.7951702210638258,4.481045987870958,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A07,16,0.7937671211030748,4.480952103932698,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A08,2,0.7457658582263522,3.5203406280941434,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A08,4,0.7764474749565125,4.076062361399333,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A08,6,0.7806143893135918,4.137396812438965,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A08,8,0.7678575846883986,3.924966785642836,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A08,16,0.7604184084468417,3.786374171574911,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A09,2,0.7540799842940437,3.543810394075181,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A09,4,0.7852792077594334,4.11795695622762,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A09,6,0.7867530783017477,4.09674678908454,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A09,8,0.786063724093967,4.077654441197714,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2a,A09,16,0.7853515942891439,4.09194016456604,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B01,2,0.7337985436121623,3.191266324785021,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B01,4,0.7701469328668382,3.862685124079386,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B01,6,0.7708498239517212,3.833976639641656,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B01,8,0.7666387028164334,3.7131075859069824,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B01,16,0.7622248596615262,3.5893520514170327,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B02,2,0.6832057899898953,2.336841212378608,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B02,4,0.7075777451197306,2.9321156077914767,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B02,6,0.7059676316049364,2.966116984685262,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B02,8,0.7208960254987081,3.020471466912164,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B02,16,0.7157978614171346,2.93650394015842,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B03,2,0.7400191227595011,3.4500300619337296,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B03,4,0.7653862833976746,3.994623793496026,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B03,6,0.7679024073812697,4.037962251239353,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B03,8,0.7687910066710578,4.058780882093641,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B03,16,0.7678631742795309,4.036822107103136,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B04,2,0.762662774986691,3.85567569732666,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B04,4,0.7833771639400058,4.42203958829244,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B04,6,0.784271240234375,4.454268985324435,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B04,8,0.7859710786077712,4.484511719809638,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B04,16,0.7815587719281515,4.385003884633382,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B05,2,0.7184514668252733,3.0627191066741943,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B05,4,0.7453963491651747,3.497270319196913,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B05,6,0.7490823931164212,3.5065966977013483,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B05,8,0.7502749959627787,3.54081212149726,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B05,16,0.7479740116331313,3.499913533528646,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B06,2,0.7551668882369995,3.610922230614556,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B06,4,0.7794793314403958,4.1658669577704535,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B06,6,0.7832611401875814,4.271344025929769,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B06,8,0.784132613076104,4.301314883761936,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B06,16,0.7813814481099447,4.2881209055582685,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B07,2,0.6498958667119344,2.2591946257485285,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B07,4,0.6791717211405437,2.744526783625285,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B07,6,0.6750437749756707,2.7334927717844644,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B07,8,0.67048446337382,2.6887673007117376,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B07,16,0.6594489812850952,2.5708713266584606,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B08,2,0.7617263595263163,3.3643105824788413,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B08,4,0.7833983500798544,3.699232578277588,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B08,6,0.7831164863374498,3.66023924615648,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B08,8,0.7800672584109837,3.58461078008016,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B08,16,0.7753837903340658,3.458944241205851,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B09,2,0.7354674206839668,3.2262902789645724,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B09,4,0.7618935969140794,3.63957773314582,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B09,6,0.7628004286024306,3.619269265068902,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B09,8,0.7601748307545979,3.548438443077935,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+subject,BCI_IV2b,B09,16,0.7561344239446852,3.429641193813748,3,42 43 44,,,,,,,,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_rows.csv
+mean_ci,BCI_IV2a,,2,,,,,0.7014665868547227,0.6603148461491974,0.7375098442221865,2.8854990976828114,2.4060915876317908,3.3219999414167285,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2a,,4,,,,,0.7343563739164376,0.6944034680908109,0.7715444393915895,3.468048913979236,2.9262238353122902,4.006804105013977,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2a,,6,,,,,0.7373700907200943,0.6959224047668185,0.7740043783077488,3.5385530142136563,2.972746260298623,4.095511513138995,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2a,,8,,,,,0.7374883757697211,0.6981973545050916,0.7748721937890407,3.5472705864611966,2.9985056733643565,4.112966031277621,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2a,,16,,,,,0.7346726126141018,0.6963431595468227,0.7723117309955903,3.53830243923046,2.997684204504813,4.110896810778865,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2b,,2,,,,,0.7267104703703045,0.702585478734087,0.7475629360587508,3.150805568989413,2.80579725018254,3.4629407979088067,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2b,,4,,,,,0.7528697193404774,0.7284322814257057,0.7731859499841561,3.6619931650750432,3.304061324876032,3.9888801927919735,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2b,,6,,,,,0.7535883695990951,0.7282542377526376,0.7745692316764666,3.675918540836853,3.323635662632224,4.012147378627165,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2b,,8,,,,,0.7541589972413616,0.7286995789151133,0.7740449374840582,3.660090575983495,3.2990969540160378,4.009638729066023,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv
+mean_ci,BCI_IV2b,,16,,,,,0.749751924732585,0.7233222274132717,0.7706067444365702,3.577241464897438,3.202550185094645,3.940023442845285,9,runs/a7_bci_zero_shot_all_subjects_20260815_000000/a7_subject_width_summary.csv

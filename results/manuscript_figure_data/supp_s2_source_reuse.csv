@@ -1,0 +1,635 @@
+﻿source_type,source_label,split,split_label,reuse_count,ecdf,source_file,aggregation
+clean,Clean EEG,test,Test,180,0.0022123893805309,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,182,0.0044247787610619,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,184,0.0088495575221238,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,186,0.0110619469026548,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,188,0.0154867256637168,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,190,0.0176991150442477,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,191,0.0199115044247787,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,192,0.0265486725663716,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,193,0.0331858407079646,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,194,0.0398230088495575,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,195,0.0486725663716814,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,196,0.0508849557522123,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,197,0.0597345132743362,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,198,0.0641592920353982,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,199,0.081858407079646,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,200,0.0884955752212389,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,201,0.0995575221238938,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,202,0.1106194690265486,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,203,0.1261061946902655,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,204,0.1393805309734513,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,205,0.1592920353982301,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,206,0.1747787610619469,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,207,0.1902654867256637,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,208,0.2079646017699115,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,209,0.2300884955752212,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,210,0.25,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,211,0.2743362831858407,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,212,0.3008849557522124,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,213,0.331858407079646,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,214,0.3539823008849557,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,215,0.3827433628318584,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,216,0.3982300884955752,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,217,0.4181415929203539,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,218,0.4513274336283185,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,219,0.4668141592920354,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,220,0.4845132743362831,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,221,0.5088495575221239,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,222,0.5376106194690266,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,223,0.5641592920353983,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,224,0.577433628318584,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,225,0.5973451327433629,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,226,0.6150442477876106,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,227,0.6438053097345132,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,228,0.6792035398230089,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,229,0.7013274336283186,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,230,0.7278761061946902,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,231,0.745575221238938,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,232,0.754424778761062,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,233,0.7676991150442478,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,234,0.7831858407079646,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,235,0.7876106194690266,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,236,0.8163716814159292,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,237,0.8407079646017699,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,238,0.8561946902654868,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,239,0.8716814159292036,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,240,0.8871681415929203,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,241,0.9026548672566372,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,242,0.915929203539823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,243,0.922566371681416,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,244,0.9358407079646016,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,245,0.9446902654867256,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,246,0.9491150442477876,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,247,0.9557522123893806,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,248,0.9646017699115044,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,249,0.9778761061946902,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,250,0.9823008849557522,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,251,0.986725663716814,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,253,0.991150442477876,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,255,0.9933628318584072,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,259,0.995575221238938,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,264,0.9977876106194692,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,test,Test,276,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,171,0.0002769315978953,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,172,0.0005538631957906,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,174,0.0008307947936859,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,175,0.0013846579894765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,176,0.0016615895873719,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,177,0.0022154527831625,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,179,0.0027693159789531,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,180,0.0033231791747438,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,182,0.0041539739684297,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,183,0.0049847687621157,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,184,0.0069232899473829,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,185,0.0072002215452783,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,186,0.0080310163389642,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,187,0.0094156743284408,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,188,0.0119080587094987,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,189,0.0144004430905566,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,190,0.0185544170589864,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,191,0.0204929382442536,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,192,0.0238161174189975,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,193,0.0276931597895319,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,194,0.0312932705621711,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,195,0.0376626973137635,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,196,0.0445859872611464,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,197,0.0495707560232622,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,198,0.0587094987538078,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,199,0.068402104680144,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,200,0.0792024369980614,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,201,0.0894489061201883,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,202,0.0958183328717806,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,203,0.1068955967875934,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,204,0.1204652450844641,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,205,0.1326502353918582,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,206,0.1476045416782054,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,207,0.1672666851287731,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,208,0.1811132650235392,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,209,0.2013292716698975,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,210,0.225145389088895,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,211,0.2495153697036831,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,212,0.2716698975353088,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,213,0.2974245361395735,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,214,0.322071448352257,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,215,0.3475491553586264,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,216,0.3746884519523678,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,217,0.4029354749376904,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,218,0.431182497923013,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,219,0.4591525893104403,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,220,0.4876765438936583,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,221,0.5103849349210745,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,222,0.5414012738853503,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,223,0.5630019385211853,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,224,0.5904181667128219,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,225,0.6170036001107726,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,226,0.6386042647466076,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,227,0.6618665189698144,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,228,0.684851841595126,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,229,0.7086679590141235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,230,0.7302686236499585,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,231,0.7521462198836887,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,232,0.7695929105510939,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,233,0.7889781224037663,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,234,0.8069786762669621,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,235,0.8252561617280532,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,236,0.8410412628080864,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,237,0.8551647743007477,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,238,0.870949875380781,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,239,0.8820271392965937,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,240,0.8933813348103019,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,241,0.9058432567155912,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,242,0.9138742730545556,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,243,0.9224591525893104,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,244,0.932428690113542,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,245,0.9401827748546108,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,246,0.945444475214622,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,247,0.9531985599556908,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,248,0.9581833287178066,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,249,0.9642758238715038,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,250,0.9695375242315148,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,251,0.9734145666020492,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,252,0.978399335364165,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,253,0.9822763777346996,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,254,0.9858764885073388,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,255,0.9880919412905012,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,256,0.9900304624757684,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,257,0.992245915258931,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,258,0.9933536416505124,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,259,0.9947382996399888,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,260,0.9955690944336748,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,261,0.9966768208252562,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,262,0.9972306840210468,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,264,0.9977845472168374,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,265,0.9988922736084188,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,266,0.9994461368042094,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,267,0.9997230684021048,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,train,Train,273,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,178,0.0022172949002217,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,183,0.0066518847006651,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,187,0.0110864745011086,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,189,0.0133037694013303,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,190,0.0221729490022172,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,191,0.024390243902439,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,192,0.0266075388026607,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,193,0.0332594235033259,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,195,0.0354767184035476,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,196,0.0399113082039911,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,197,0.0509977827050997,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,198,0.0598669623059867,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,199,0.0643015521064301,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,200,0.0709534368070953,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,201,0.0886917960088691,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,202,0.0931263858093126,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,203,0.1108647450110864,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,204,0.1219512195121951,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,205,0.1396895787139689,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,206,0.1529933481152993,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,207,0.17960088691796,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,208,0.1973392461197339,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,209,0.212860310421286,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,210,0.2439024390243902,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,211,0.2660753880266075,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,212,0.2838137472283814,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,213,0.3059866962305986,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,214,0.3259423503325942,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,215,0.3503325942350332,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,216,0.368070953436807,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,217,0.3902439024390244,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,218,0.4146341463414634,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,219,0.4390243902439024,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,220,0.4567627494456763,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,221,0.4745011086474501,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,222,0.5033259423503326,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,223,0.541019955654102,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,224,0.5587583148558758,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,225,0.5853658536585366,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,226,0.614190687361419,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,227,0.6385809312638581,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,228,0.6696230598669624,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,229,0.70509977827051,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,230,0.720620842572062,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,231,0.738359201773836,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,232,0.753880266075388,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,233,0.7760532150776053,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,234,0.7937915742793792,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,235,0.8159645232815964,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,236,0.8314855875831486,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,237,0.8492239467849224,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,238,0.8625277161862528,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,239,0.8980044345898004,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,240,0.9046563192904656,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,241,0.9157427937915744,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,242,0.926829268292683,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,243,0.9312638580931264,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,244,0.9423503325942352,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,245,0.9467849223946784,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,246,0.9534368070953436,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,247,0.9623059866962306,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,248,0.966740576496674,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,249,0.9711751662971176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,250,0.9778270509977828,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,252,0.9800443458980044,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,253,0.9822616407982262,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,254,0.984478935698448,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,256,0.9866962305986696,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,257,0.991130820399113,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,258,0.9955654101995566,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,262,0.9977827050997784,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+clean,Clean EEG,val,Validation,264,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,82,0.0017825311942959,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,85,0.0035650623885918,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,89,0.0053475935828877,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,91,0.0071301247771836,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,92,0.0142602495543672,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,93,0.0213903743315508,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,94,0.0231729055258467,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,95,0.0338680926916221,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,96,0.035650623885918,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,97,0.0409982174688057,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,98,0.0606060606060606,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,99,0.0748663101604278,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,100,0.0819964349376114,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,101,0.089126559714795,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,102,0.1033868092691622,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,103,0.1158645276292335,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,104,0.1319073083778966,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,105,0.1461675579322638,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,106,0.1639928698752228,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,107,0.1978609625668449,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,108,0.2352941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,109,0.2709447415329768,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,110,0.2941176470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,111,0.3333333333333333,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,112,0.3707664884135472,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,113,0.4010695187165775,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,114,0.4491978609625668,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,115,0.4866310160427807,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,116,0.5347593582887701,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,117,0.5668449197860963,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,118,0.6149732620320856,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,119,0.6684491978609626,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,120,0.6880570409982175,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,121,0.7254901960784313,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,122,0.7557932263814616,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,123,0.7789661319073083,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,124,0.7985739750445633,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,125,0.8253119429590018,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,126,0.8413547237076648,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,127,0.8627450980392157,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,128,0.8805704099821747,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,129,0.9037433155080212,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,130,0.9197860962566844,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,131,0.9376114081996436,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,132,0.948306595365419,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,133,0.9572192513368984,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,134,0.966131907308378,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,135,0.9696969696969696,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,136,0.9750445632798574,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,137,0.9803921568627452,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,138,0.9893048128342246,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,139,0.9928698752228164,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,142,0.9946524064171124,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,143,0.9964349376114082,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,test,Test,144,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,83,0.0004466279589102,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,84,0.0006699419383653,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,85,0.0017865118356409,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,86,0.0026797677534613,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,87,0.0031263957123715,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,88,0.0046895935685573,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,89,0.0066994193836534,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,91,0.009825815096025,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,92,0.0113890129522108,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,93,0.0129522108083966,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,94,0.0194283162125949,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,95,0.0252344796784278,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,96,0.031487271103171,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,97,0.0390799464046449,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,98,0.047119249665029,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,99,0.056945064761054,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,100,0.0692273336310853,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,101,0.0837427422956677,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,102,0.102054488610987,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,103,0.1208128628852166,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,104,0.1386779812416257,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,105,0.1612326931665922,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,106,0.1855739169271996,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,107,0.2128182224207235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,108,0.2393925859758821,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,109,0.2724430549352389,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,110,0.3072800357302367,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,111,0.3389906208128629,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,112,0.3760607414024118,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,113,0.4151406878070567,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,114,0.4539973202322465,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,115,0.4897275569450647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,116,0.5281375614113444,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,117,0.5618579723090665,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,118,0.5964716391246092,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,119,0.631531933899062,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,120,0.6652523447967843,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,121,0.6965163019205002,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,122,0.7242072353729343,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,123,0.7532380527020992,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,124,0.780259044216168,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,125,0.805940151853506,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,126,0.8307280035730237,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,127,0.8517195176418044,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,128,0.8711478338543993,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,129,0.8934792317999106,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,130,0.9108977221974096,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,131,0.9245198749441716,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,132,0.9379187137114784,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,133,0.9477445288075034,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,134,0.9564537740062528,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,135,0.9624832514515408,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,136,0.97029924073247,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,137,0.9754354622599376,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,138,0.9790084859312193,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,139,0.9839213934792318,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,140,0.9890576150066994,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,141,0.9910674408217954,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,142,0.9933005806163466,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,143,0.9946404644930772,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,144,0.9948637784725324,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,145,0.996426976328718,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,146,0.9973202322465388,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,147,0.9975435462259936,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,148,0.9982134881643592,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,149,0.9986601161232692,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,150,0.9993300580616348,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,151,0.9997766860205448,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,train,Train,161,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,83,0.0017889087656529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,88,0.0035778175313059,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,92,0.0053667262969588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,93,0.0089445438282647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,94,0.0107334525939177,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,95,0.0161001788908765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,96,0.0214669051878354,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,97,0.0232558139534883,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,98,0.0429338103756708,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,99,0.0536672629695885,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,100,0.0679785330948121,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,101,0.0805008944543828,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,102,0.1001788908765653,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,103,0.1216457960644007,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,104,0.1413237924865832,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,105,0.1627906976744186,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,106,0.182468694096601,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,107,0.2003577817531306,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,108,0.2289803220035778,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,109,0.257602862254025,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,110,0.2808586762075134,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,111,0.3273703041144901,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,112,0.3631484794275492,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,113,0.3917710196779964,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,114,0.4293381037567084,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,115,0.4722719141323792,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,116,0.5026833631484794,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,117,0.5402504472271914,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,118,0.5796064400715564,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,119,0.629695885509839,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,120,0.669051878354204,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,121,0.7066189624329159,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,122,0.7531305903398927,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,123,0.776386404293381,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,124,0.8085867620751341,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,125,0.8354203935599285,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,126,0.851520572450805,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,127,0.8640429338103757,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,128,0.8801431127012522,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,129,0.8944543828264758,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,130,0.9123434704830052,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,131,0.9230769230769232,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,132,0.9373881932021468,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,133,0.9552772808586762,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,134,0.958855098389982,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,135,0.960644007155635,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,136,0.9695885509838998,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,137,0.9749552772808586,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,138,0.9803220035778176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,139,0.9838998211091234,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,140,0.9856887298747764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,142,0.9910554561717352,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,144,0.9946332737030412,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,145,0.996422182468694,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,146,0.998211091234347,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+emg,EMG,val,Validation,148,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,151,0.0029411764705882,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,154,0.0058823529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,155,0.0088235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,156,0.0117647058823529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,160,0.0176470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,161,0.0205882352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,163,0.0294117647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,164,0.038235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,165,0.0470588235294117,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,166,0.0529411764705882,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,167,0.0617647058823529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,168,0.0705882352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,169,0.0794117647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,170,0.0911764705882352,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,171,0.0941176470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,172,0.1088235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,173,0.1264705882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,174,0.1411764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,175,0.1558823529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,176,0.1705882352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,177,0.1794117647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,178,0.2088235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,179,0.2147058823529411,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,180,0.2294117647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,181,0.2441176470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,182,0.2735294117647059,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,183,0.2941176470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,184,0.3205882352941177,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,185,0.3529411764705882,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,186,0.3970588235294117,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,187,0.4176470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,188,0.438235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,189,0.4617647058823529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,190,0.488235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,191,0.5205882352941177,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,192,0.55,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,193,0.5794117647058824,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,194,0.5941176470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,195,0.6294117647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,196,0.6617647058823529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,197,0.6911764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,198,0.7147058823529412,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,199,0.7411764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,200,0.7735294117647059,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,201,0.7911764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,202,0.8058823529411765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,203,0.8323529411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,204,0.8470588235294118,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,205,0.861764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,206,0.8794117647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,207,0.888235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,208,0.9,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,209,0.9117647058823528,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,210,0.9205882352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,211,0.9323529411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,212,0.9441176470588236,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,213,0.9470588235294116,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,214,0.9558823529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,215,0.961764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,216,0.976470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,217,0.9794117647058824,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,218,0.9823529411764704,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,221,0.9852941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,223,0.9882352941176472,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,224,0.9911764705882352,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,225,0.9941176470588236,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,226,0.9970588235294118,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,test,Test,227,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,141,0.0003676470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,145,0.000735294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,148,0.0014705882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,152,0.0018382352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,153,0.0033088235294117,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,154,0.0047794117647058,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,156,0.00625,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,157,0.006985294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,158,0.0084558823529411,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,159,0.0110294117647058,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,160,0.0136029411764705,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,161,0.0169117647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,162,0.019485294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,163,0.0238970588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,164,0.0268382352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,165,0.031985294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,166,0.0378676470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,167,0.0441176470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,168,0.0518382352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,169,0.0595588235294117,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,170,0.0698529411764705,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,171,0.0805147058823529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,172,0.0952205882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,173,0.1077205882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,174,0.1220588235294117,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,175,0.1330882352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,176,0.1477941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,177,0.1665441176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,178,0.1886029411764705,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,179,0.2117647058823529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,180,0.2275735294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,181,0.2551470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,182,0.2775735294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,183,0.2922794117647059,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,184,0.3220588235294118,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,185,0.3452205882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,186,0.3768382352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,187,0.3985294117647059,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,188,0.4308823529411765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,189,0.4558823529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,190,0.4823529411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,191,0.5102941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,192,0.5389705882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,193,0.5698529411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,194,0.5952205882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,195,0.6183823529411765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,196,0.6408088235294118,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,197,0.6680147058823529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,198,0.6922794117647059,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,199,0.7227941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,200,0.7496323529411765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,201,0.7665441176470589,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,202,0.7863970588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,203,0.8084558823529412,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,204,0.8246323529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,205,0.8411764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,206,0.8573529411764705,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,207,0.8746323529411765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,208,0.8856617647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,209,0.8981617647058824,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,210,0.9113970588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,211,0.9238970588235296,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,212,0.9352941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,213,0.9426470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,214,0.9492647058823528,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,215,0.9536764705882352,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,216,0.9621323529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,217,0.9654411764705882,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,218,0.96875,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,219,0.9731617647058824,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,220,0.9772058823529411,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,221,0.9797794117647058,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,222,0.9823529411764704,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,223,0.986029411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,224,0.9886029411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,225,0.9904411764705884,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,226,0.9911764705882352,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,227,0.993014705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,228,0.9941176470588236,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,229,0.995220588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,230,0.9963235294117648,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,231,0.9974264705882352,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,232,0.9981617647058824,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,235,0.9992647058823528,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,236,0.9996323529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,train,Train,237,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,158,0.0058823529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,160,0.0088235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,162,0.0117647058823529,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,165,0.0235294117647058,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,166,0.0264705882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,167,0.0294117647058823,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,168,0.038235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,169,0.0470588235294117,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,170,0.0588235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,171,0.0676470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,172,0.0735294117647058,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,173,0.0764705882352941,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,174,0.0852941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,175,0.1,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,176,0.1205882352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,177,0.1441176470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,178,0.1735294117647058,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,179,0.2088235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,180,0.238235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,181,0.2705882352941176,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,182,0.2970588235294117,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,183,0.3176470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,184,0.3352941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,185,0.3441176470588235,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,186,0.3911764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,187,0.4088235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,188,0.4323529411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,189,0.4647058823529412,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,190,0.5,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,191,0.5205882352941177,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,192,0.538235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,193,0.55,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,194,0.5911764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,195,0.611764705882353,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,196,0.6323529411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,197,0.6558823529411765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,198,0.6852941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,199,0.7176470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,200,0.7352941176470589,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,201,0.7588235294117647,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,202,0.7852941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,203,0.8058823529411765,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,204,0.8294117647058824,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,205,0.8382352941176471,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,206,0.8529411764705882,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,207,0.8735294117647059,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,208,0.8852941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,209,0.8970588235294118,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,210,0.9058823529411764,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,211,0.9176470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,212,0.923529411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,213,0.9323529411764706,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,214,0.9382352941176472,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,215,0.95,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,216,0.9647058823529412,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,218,0.9676470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,221,0.976470588235294,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,224,0.9852941176470588,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,226,0.9882352941176472,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,229,0.9941176470588236,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,231,0.9970588235294118,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts
+eog,EOG,val,Validation,232,1.0,runs/a11_mixed1m_source_reuse_20260816_140553/a11_reuse_ecdf.csv,ECDF of within-split source reuse counts

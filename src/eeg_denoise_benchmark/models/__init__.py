@@ -12,8 +12,10 @@ from .controlled_backbone import (
 )
 from .eegdn_baselines import EEGDNComplexCNN, EEGDNRNNLSTM, build_eegdn_baseline
 from .microwavenet import MicroWaveNet
+from .deepseparator import DeepSeparator
 
 __all__ = [
+    "DeepSeparator",
     "DSConv1D",
     "ECA1D",
     "EEGDNComplexCNN",

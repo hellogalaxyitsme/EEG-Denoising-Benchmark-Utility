@@ -1,0 +1,10 @@
+﻿n_intersection_from_meta,n_intersection_represented,n_unique_a_represented,n_unique_b_represented,source_type,split_a,split_b,source_file
+0,0,3611,451,clean,train,val,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv
+0,0,3611,452,clean,train,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv
+0,0,451,452,clean,val,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv
+0,0,2720,340,eog,train,val,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv
+0,0,2720,340,eog,train,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv
+0,0,340,340,eog,val,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv
+0,0,4478,559,emg,train,val,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv
+0,0,4478,561,emg,train,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv
+0,0,559,561,emg,val,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_overlap.csv

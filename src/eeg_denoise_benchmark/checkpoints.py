@@ -7,7 +7,7 @@ from typing import Any
 
 import torch
 
-from eeg_denoise_benchmark.models import MicroWaveNet, TinyDenoiser, build_eegdn_baseline, count_trainable_parameters
+from eeg_denoise_benchmark.models import DeepSeparator, MicroWaveNet, TinyDenoiser, build_eegdn_baseline, count_trainable_parameters
 
 
 STATE_KEYS = ("model", "model_state", "model_state_dict", "state_dict")
@@ -52,8 +52,10 @@ def build_model_from_checkpoint(checkpoint: Any) -> torch.nn.Module:
 
     cfg = checkpoint.get("cfg", {}) if isinstance(checkpoint, dict) else {}
     model_type = str(cfg.get("model_type", "controlled_backbone")).strip().lower()
-    if model_type in {"controlled_backbone", "tinydenoiser", "tiny_denoiser"}:
+    if model_type in {"controlled_backbone", "eeg_denoise_benchmark", "litedenoisenet", "tinydenoiser", "tiny_denoiser"}:
         return TinyDenoiser(**model_config_from_checkpoint(checkpoint))
+    if model_type in {"deepseparator", "deep_separator"}:
+        return DeepSeparator(datanum=int(cfg.get("datanum", cfg.get("length", 512))))
     if model_type in {"microwavenet", "micro_wave_net"}:
         return MicroWaveNet()
     if model_type.startswith("eegdn") or model_type in {"complex_cnn", "rnn_lstm"}:

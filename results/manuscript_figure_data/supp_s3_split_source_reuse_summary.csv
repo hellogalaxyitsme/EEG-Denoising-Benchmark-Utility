@@ -1,0 +1,10 @@
+﻿n_mixtures_in_split,n_mixtures_using_source_type,n_unique_sources,reuse_max,reuse_mean,reuse_median,reuse_min,reuse_std,source_type,split,source_file
+800000,800000,3611,273,221.5452783162559,221.0,171,14.908932671586456,clean,train,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
+800000,520144,2720,237,191.22941176470587,191.0,141,14.229103802411288,eog,train,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
+800000,519740,4478,161,116.06520768200087,116.0,83,10.705522439929236,emg,train,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
+100000,100000,451,264,221.7294900221729,222.0,178,14.907492358073217,clean,val,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
+100000,65160,340,232,191.64705882352945,190.5,158,13.975921883865272,eog,val,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
+100000,64954,559,148,116.19677996422182,116.0,83,10.369720378288845,emg,val,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
+100000,100000,452,276,221.2389380530973,221.0,180,15.42913093317762,clean,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
+100000,64737,340,227,190.4029411764706,191.0,151,14.106819315705758,eog,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
+100000,64923,561,144,115.72727272727272,116.0,82,10.380379218856731,emg,test,runs/a11_mixed1m_source_reuse_20260816_140553/a11_split_source_reuse_summary.csv
