@@ -23,7 +23,7 @@ python scripts/audit_manuscript_figure_data.py
 python scripts/plot_released_figures.py --output-dir results/released_plots
 ```
 
-This writes inspection plots for Figures 2--5 from `results/manuscript_figure_data/`. The `make_fig*` and `make_supp*` scripts plot study run summaries for authorized users who have the licensed recordings, checkpoints, and run-summary inputs; they are not needed for the released-data plotting path. Complete numeric inputs for manuscript tables are in `results/manuscript_tables/`.
+This writes inspection plots for Figures 2--5 from `results/manuscript_figure_data/`. The released convergence data can also be replayed with `python scripts/make_supp_s1_convergence_final.py`; it uses the stored mean/standard-error rows and the individual matched-seed histories in that directory. Other `make_fig*` and `make_supp*` scripts plot study run summaries for authorized users who have the licensed recordings, checkpoints, and run-summary inputs. Complete numeric inputs for manuscript tables are in `results/manuscript_tables/`.
 
 ## Statistical guardrails
 
