@@ -79,7 +79,7 @@ def import_braindecode_models() -> dict[str, type[nn.Module]]:
         import moabb.datasets
 
         if not hasattr(moabb.datasets, "BNCI2014001"):
-            dummy = type("BNCI2014001", (), {"__doc__": "Compatibility placeholder."})
+            dummy = type("BNCI2014001", (), {"__doc__": "Compatibility shim."})
             setattr(moabb.datasets, "BNCI2014001", dummy)
     except Exception:
         pass

@@ -17,7 +17,23 @@ docs/REPRODUCIBILITY.md      Analysis principles and safe use
 
 ```bash
 python -m venv .venv
+```
+
+Activate the environment on macOS or Linux:
+
+```bash
 source .venv/bin/activate
+```
+
+Or activate it in Windows PowerShell:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+Then install the package:
+
+```bash
 python -m pip install -U pip
 python -m pip install -e .
 ```
@@ -28,7 +44,7 @@ Install the optional dependencies needed for downstream, Sleep-EDF, or ONNX-expo
 python -m pip install ".[bci,sleep,onnx]"
 ```
 
-The original experiments were run with PyTorch/CUDA on an NVIDIA RTX A5000 workstation. 
+The reference experiments used PyTorch/CUDA on an NVIDIA RTX A5000 workstation.
 
 ## Datasets
 
@@ -44,7 +60,7 @@ See `data/README.md` for expected split keys and directory conventions.
 Train one controlled-backbone width after editing paths in a config:
 
 ```bash
-python scripts/train_denoiser.py configs/templates/controlled_backbone_eegdenoisenet.yaml \
+python scripts/train_denoiser.py --config configs/templates/controlled_backbone_eegdenoisenet.yaml \
   --set data=/path/to/eegdenoisenet/eog \
   --set output_dir=runs/eog_base6_seed42 \
   --set base=6 \
@@ -57,7 +73,7 @@ Evaluate a checkpoint on a held-out synthetic split:
 python scripts/evaluate_checkpoint.py \
   --checkpoint runs/eog_base6_seed42/best.pt \
   --data /path/to/eegdenoisenet/eog \
-  --output runs/eog_base6_seed42/eval.json
+  --output-json runs/eog_base6_seed42/eval.json
 ```
 
 Run controlled classical baselines:
@@ -66,7 +82,8 @@ Run controlled classical baselines:
 python scripts/evaluate_classical_eegdenoisenet_baselines.py \
   --eog-data /path/to/eegdenoisenet/eog \
   --emg-data /path/to/eegdenoisenet/emg \
-  --output-dir runs/classical_baselines
+  --output-dir runs/classical_baselines \
+  --run-id classical_baselines
 ```
 
 Generate the Mixed-1M corpus from downloaded EEGDenoiseNet source pools:
