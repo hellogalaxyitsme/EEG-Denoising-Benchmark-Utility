@@ -10,8 +10,7 @@ scripts/                     Training, evaluation, downstream BCI, profiling, st
 configs/templates/           Minimal local-path templates for reproducible runs
 data/README.md               Dataset preparation notes and expected array layout
 results/README.md            Expected location for regenerated summaries
-results/manuscript_figure_data/  Stored aggregate CSVs used for manuscript figures
-docs/REPRODUCIBILITY.md      Analysis map and statistical guardrails
+docs/REPRODUCIBILITY.md      Analysis principles and safe use
 ```
 
 ## Installation
@@ -36,6 +35,7 @@ The original experiments were run with PyTorch/CUDA on an NVIDIA RTX A5000 works
 - EEGDenoiseNet synthetic splits for EOG and EMG.
 - The Mixed-1M corpus generated from disjoint EEGDenoiseNet source pools.
 - BCI Competition IV-2a and IV-2b files for zero-shot and downstream experiments.
+- Sleep-EDF Expanded Sleep Cassette recordings and hypnograms for external sleep-stage validation.
 
 See `data/README.md` for expected split keys and directory conventions. 
 
@@ -90,7 +90,14 @@ python scripts/profile_model_complexity.py --output-dir runs/complexity_profile
 
 - `scripts/train_denoiser.py`: supervised denoiser training from flat YAML/JSON configs.
 - `scripts/generate_mixed1m_corpus.py`: deterministic Mixed-1M construction from EEGDenoiseNet source pools.
-- `scripts/evaluate_bci_zero_shot_widths.py`: IV-2a/IV-2b zero-shot reconstruction evaluation.
+- `scripts/evaluate_bci_zero_shot_all_subjects.py`: all-subject IV-2a/IV-2b zero-shot reconstruction evaluation.
+- `scripts/analyze_bci_capacity_sensitivity.py`: subject-preserving BCI capacity summaries from zero-shot rows.
+- `scripts/analyze_capacity_diminishing_returns.py`: reconstruction capacity and practical-equivalence summaries.
+- `scripts/analyze_hierarchical_downstream_stats.py`: subject-level downstream aggregation and multiplicity correction.
+- `scripts/analyze_metric_utility.py`: same-condition reconstruction--utility associations.
+- `scripts/evaluate_bci2b_downstream_replication.py`: IV-2b cross-session downstream evaluation.
+- `scripts/evaluate_sleep_edf_formal.py`: Sleep-EDF external downstream evaluation.
+- `scripts/evaluate_onnx_export_compatibility.py`: ONNX export and runtime-compatibility checks.
 - `scripts/evaluate_mixed1m_stratified.py`: Mixed-1M SNR/artifact stratification.
 - `scripts/evaluate_classical_eegdenoisenet_baselines.py`: zero-parameter and tiny lower anchors.
 - `scripts/profile_model_complexity.py`: parameter, FLOP, size, latency, throughput, and memory profiling.
@@ -106,4 +113,4 @@ python scripts/profile_model_complexity.py --output-dir runs/complexity_profile
 
 The primary analysis treats human participants as the inferential unit: BCI IV-2a/IV-2b effects use nine subjects and Sleep-EDF effects use 75 subjects. Contamination realizations, denoiser checkpoints, channels, and classifier seeds are nuisance repetitions averaged or modelled within subject. The controlled reconstruction sweep has five EEGDenoiseNet seeds, while formal adjacent-width comparisons use the three matched seeds `42, 43, 44`; see `docs/REPRODUCIBILITY.md`.
 
-The stored aggregate CSVs in `results/manuscript_figure_data/` are sufficient to audit the displayed manuscript values without downloading private recordings, checkpoints, raw run directories, or correspondence. Scripts write JSON/CSV summaries under the requested `output_dir`; statistical aggregation scripts consume those summaries for reported analyses.
+Scripts write JSON/CSV summaries under the requested `output_dir`; statistical aggregation scripts consume those scientific outputs. This release does not include recordings, checkpoints, or run archives.

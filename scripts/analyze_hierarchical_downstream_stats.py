@@ -27,13 +27,13 @@ WILCOXON_P_KEY = "wilcoxon_p_two_sided"
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--a2-dir", type=Path, required=True, help="A2 CSP+LDA result directory.")
+    parser.add_argument("--checkpoint-dir", type=Path, required=True, help="checkpoint CSP+LDA result directory.")
     parser.add_argument(
-        "--a3-dir",
+        "--classifier-seed-dir",
         type=Path,
         action="append",
         required=True,
-        help="One or more A3 neural-decoder result directories. Comma-separated entries are accepted.",
+        help="One or more classifier_seed neural-decoder result directories. Comma-separated entries are accepted.",
     )
     parser.add_argument("--output-dir", type=Path, required=True)
     parser.add_argument("--run-id", required=True)
@@ -253,14 +253,14 @@ def format_float(value: Any, digits: int = 6) -> str:
     return f"{value_f:.{digits}f}"
 
 
-def normalized_a2_rows(a2_dir: Path) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
-    baseline_raw = read_csv(a2_dir / "a1_baseline_seed_rows.csv")
-    processed_raw = read_csv(a2_dir / "a1_checkpoint_seed_rows.csv")
+def normalized_checkpoint_rows(checkpoint_dir: Path) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    baseline_raw = read_csv(checkpoint_dir / "contamination-seed_baseline_seed_rows.csv")
+    processed_raw = read_csv(checkpoint_dir / "contamination-seed_checkpoint_seed_rows.csv")
     baseline = []
     for row in baseline_raw:
         baseline.append(
             {
-                "source": "a2_csp_lda",
+                "source": "checkpoint_csp_lda",
                 "classifier": "csp_lda",
                 "classifier_seed": "",
                 "subject": row["subject"],
@@ -277,7 +277,7 @@ def normalized_a2_rows(a2_dir: Path) -> tuple[list[dict[str, Any]], list[dict[st
         if row.get("condition") != "denoised_denoised":
             continue
         item = {
-            "source": "a2_csp_lda",
+            "source": "checkpoint_csp_lda",
             "classifier": "csp_lda",
             "classifier_seed": "",
             "subject": row["subject"],
@@ -302,13 +302,13 @@ def normalized_a2_rows(a2_dir: Path) -> tuple[list[dict[str, Any]], list[dict[st
     return baseline, list(processed_by_key.values())
 
 
-def normalized_a3_rows(a3_dirs: list[Path]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+def normalized_classifier_seed_rows(classifier_seed_dirs: list[Path]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     baseline_by_key: dict[tuple[Any, ...], dict[str, Any]] = {}
     processed_by_key: dict[tuple[Any, ...], dict[str, Any]] = {}
-    for a3_dir in a3_dirs:
-        for row in read_csv(a3_dir / "a3_baseline_classifier_seed_rows.csv"):
+    for classifier_seed_dir in classifier_seed_dirs:
+        for row in read_csv(classifier_seed_dir / "classifier_seed_baseline_rows.csv"):
             item = {
-                "source": str(a3_dir),
+                "source": str(classifier_seed_dir),
                 "classifier": row["classifier"],
                 "classifier_seed": str(row["classifier_seed"]),
                 "subject": row["subject"],
@@ -327,11 +327,11 @@ def normalized_a3_rows(a3_dirs: list[Path]) -> tuple[list[dict[str, Any]], list[
                 item["seed_pair_index"],
             )
             baseline_by_key.setdefault(key, item)
-        for row in read_csv(a3_dir / "a3_checkpoint_classifier_seed_rows.csv"):
+        for row in read_csv(classifier_seed_dir / "classifier_seed_checkpoint_rows.csv"):
             if row.get("condition") != "denoised_denoised":
                 continue
             item = {
-                "source": str(a3_dir),
+                "source": str(classifier_seed_dir),
                 "classifier": row["classifier"],
                 "classifier_seed": str(row["classifier_seed"]),
                 "subject": row["subject"],
@@ -609,8 +609,8 @@ def write_markdown(
     effects: list[dict[str, Any]],
     width_contrasts: list[dict[str, Any]],
     nuisance_rows: list[dict[str, Any]],
-    a2_dir: Path,
-    a3_dirs: list[Path],
+    checkpoint_dir: Path,
+    classifier_seed_dirs: list[Path],
 ) -> None:
     confirmatory = [row for row in effects if row["analysis_family"] == "confirmatory_downstream_effects"]
     exploratory = [row for row in effects if row["analysis_family"] == "exploratory_width_effects"]
@@ -618,8 +618,8 @@ def write_markdown(
     lines.append("## Protocol")
     lines.append("")
     lines.append(f"- Run ID: `{run_id}`.")
-    lines.append(f"- A2 CSP+LDA input: `{a2_dir}`.")
-    lines.append(f"- A3 neural inputs: `{', '.join(str(path) for path in a3_dirs)}`.")
+    lines.append(f"- CSP+LDA checkpoint input: `{checkpoint_dir}`.")
+    lines.append(f"- Neural classifier-seed inputs: `{', '.join(str(path) for path in classifier_seed_dirs)}`.")
     lines.append("- Primary independent statistical unit: human subject.")
     lines.append("- BCI IV-2a subject-level sample size remains `n=9`.")
     lines.append("- Contamination seeds, denoiser checkpoints, and classifier seeds are nuisance repetitions aggregated within subject before inference.")
@@ -700,12 +700,12 @@ def main() -> None:
     if args.n_bootstrap < 10000:
         raise ValueError("--n-bootstrap must be at least 10000")
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    a3_dirs = expand_dirs(args.a3_dir)
+    classifier_seed_dirs = expand_dirs(args.classifier_seed_dir)
 
-    a2_baseline, a2_processed = normalized_a2_rows(args.a2_dir)
-    a3_baseline, a3_processed = normalized_a3_rows(a3_dirs)
-    baseline_rows = a2_baseline + a3_baseline
-    processed_rows = a2_processed + a3_processed
+    checkpoint_baseline, checkpoint_processed = normalized_checkpoint_rows(args.checkpoint_dir)
+    classifier_seed_baseline, classifier_seed_processed = normalized_classifier_seed_rows(classifier_seed_dirs)
+    baseline_rows = checkpoint_baseline + classifier_seed_baseline
+    processed_rows = checkpoint_processed + classifier_seed_processed
 
     subject_rows = aggregate_subject_rows(
         run_id=args.run_id,
@@ -743,8 +743,8 @@ def main() -> None:
     summary = {
         "info": {
             "run_id": args.run_id,
-            "a2_dir": str(args.a2_dir),
-            "a3_dirs": [str(path) for path in a3_dirs],
+            "checkpoint_dir": str(args.checkpoint_dir),
+            "classifier_seed_dirs": [str(path) for path in classifier_seed_dirs],
             "primary_independent_statistical_unit": "subject",
             "bci_iv_2a_n_subjects": 9,
             "technical_repeats_as_inferential_n": False,
@@ -765,8 +765,8 @@ def main() -> None:
         effects=effects,
         width_contrasts=width_contrasts,
         nuisance_rows=nuisance_rows,
-        a2_dir=args.a2_dir,
-        a3_dirs=a3_dirs,
+        checkpoint_dir=args.checkpoint_dir,
+        classifier_seed_dirs=classifier_seed_dirs,
     )
     print(f"[written] {args.output_dir / 'hierarchical_summary.md'}", flush=True)
     print(

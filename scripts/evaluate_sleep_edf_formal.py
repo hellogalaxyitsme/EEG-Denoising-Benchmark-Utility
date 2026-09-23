@@ -32,7 +32,7 @@ from eeg_denoise_benchmark.checkpoints import load_model_from_checkpoint  # noqa
 from eeg_denoise_benchmark.eval.metrics import cc_np, psd_np, rmse_np, s_rrmse_from_psd_np, sdr_db_np, t_rrmse_np  # noqa: E402
 from eeg_denoise_benchmark.models import count_trainable_parameters  # noqa: E402
 from scripts.evaluate_bci2a_downstream_csp_lda import denoise_epochs  # noqa: E402
-from scripts.evaluate_sleep_edf_downstream_pilot import (  # noqa: E402
+from scripts.sleep_edf_downstream_helpers import (  # noqa: E402
     checkpoint_base,
     checkpoint_seed_from_path,
     discover_recordings,

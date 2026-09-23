@@ -399,7 +399,7 @@ def main() -> None:
     x2a, fs2a = load_bci2a_mat(args.bci2a_mat)
     eeg2a = resample_to_256(x2a[:, args.bci2a_eeg_index].astype(np.float32), fs2a)
     eog2a = resample_to_256(x2a[:, args.bci2a_eog_index].astype(np.float32), fs2a)
-    y2a, clean2a, _artifact2a, _snr2a, _sigma2a, info2a = make_semisynthetic_set(
+    y2a, clean2a, _artifact2a, _snr2a, _sigmcheckpointa, info2a = make_semisynthetic_set(
         eeg=eeg2a,
         eog=eog2a,
         n_test=args.n_test,
@@ -429,7 +429,7 @@ def main() -> None:
     )
     eeg2b = resample_to_256(x2b[:, eeg_idx2b].astype(np.float32), fs2b)
     eog2b = resample_to_256(x2b[:, eog_idx2b].astype(np.float32), fs2b)
-    y2b, clean2b, _artifact2b, _snr2b, _sigma2b, info2b = make_semisynthetic_set(
+    y2b, clean2b, _artifact2b, _snr2b, _sigmcheckpointb, info2b = make_semisynthetic_set(
         eeg=eeg2b,
         eog=eog2b,
         n_test=args.n_test,

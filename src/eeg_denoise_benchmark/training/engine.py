@@ -162,7 +162,7 @@ def predict_split(
 
 def _cfg_for_checkpoint(config: dict[str, Any]) -> dict[str, Any]:
     return {
-        "name": config.get("name", "A0_baseline"),
+        "name": config.get("name", "baseline"),
         "model_type": str(config.get("model_type", "controlled_backbone")),
         "variant": str(config.get("variant", config.get("model_type", "controlled_backbone"))),
         "datanum": int(config.get("datanum", config.get("length", 512))),

@@ -1,5 +1,3 @@
-# Results Directory
+# Results
 
-Use this directory for regenerated summaries if you want a local convention. The repository does not include raw run outputs, checkpoints, or logs.
-
-Most scripts accept an explicit `--output-dir`; aggregation scripts expect the run summaries produced by the corresponding training and evaluation commands.
+Analysis commands write user-generated CSV/JSON summaries to this directory or another selected output location. No recordings, checkpoints, or run archives are included in this release.

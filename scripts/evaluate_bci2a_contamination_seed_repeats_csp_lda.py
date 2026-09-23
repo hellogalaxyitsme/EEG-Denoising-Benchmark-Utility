@@ -496,7 +496,7 @@ def write_markdown(
     width_rows: list[dict[str, Any]],
     best_rows: list[dict[str, Any]],
 ) -> None:
-    lines = ["# A1 CSP+LDA Contamination-Seed Repetition Summary", ""]
+    lines = ["# CSP+LDA Contamination-Seed Repetition Summary", ""]
     lines.append("This experiment repeats the downstream CSP+LDA evaluation across independent synthetic contamination realizations.")
     lines.append("")
     lines.append("## Protocol")
@@ -541,9 +541,9 @@ def write_markdown(
 
 
 def maybe_reuse_existing(args: argparse.Namespace) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]]] | None:
-    baseline_path = args.output_dir / "a1_baseline_seed_rows.csv"
-    result_path = args.output_dir / "a1_checkpoint_seed_rows.csv"
-    noise_path = args.output_dir / "a1_noise_metadata_rows.csv"
+    baseline_path = args.output_dir / "contamination-seed_baseline_seed_rows.csv"
+    result_path = args.output_dir / "contamination-seed_checkpoint_seed_rows.csv"
+    noise_path = args.output_dir / "contamination-seed_noise_metadata_rows.csv"
     if not args.resume:
         return None
     if not baseline_path.exists() or not result_path.exists() or not noise_path.exists():
@@ -563,7 +563,7 @@ def main() -> None:
     if len(train_seeds) != len(test_seeds):
         raise ValueError("--train-seeds and --test-seeds must have the same length")
     if args.n_bootstrap < 10000:
-        raise ValueError("--n-bootstrap must be at least 10000 for the A1 protocol")
+        raise ValueError("--n-bootstrap must be at least 10000 for the contamination-seed protocol")
 
     reused = maybe_reuse_existing(args)
     if reused is None:
@@ -614,9 +614,9 @@ def main() -> None:
                     baseline_rows.extend(base_rows)
                     result_rows.extend(rows)
                     noise_rows.append(noise_info)
-                    write_csv(args.output_dir / "a1_baseline_seed_rows.csv", baseline_rows)
-                    write_csv(args.output_dir / "a1_checkpoint_seed_rows.csv", result_rows)
-                    write_csv(args.output_dir / "a1_noise_metadata_rows.csv", noise_rows)
+                    write_csv(args.output_dir / "contamination-seed_baseline_seed_rows.csv", baseline_rows)
+                    write_csv(args.output_dir / "contamination-seed_checkpoint_seed_rows.csv", result_rows)
+                    write_csv(args.output_dir / "contamination-seed_noise_metadata_rows.csv", noise_rows)
                     print(
                         f"[seed_pair_done] recipe={recipe} subject={subject} seed_pair={seed_pair_index}",
                         flush=True,
@@ -650,12 +650,12 @@ def main() -> None:
         "width_inference": width_rows,
         "best_fixed_width_per_recipe": best_rows,
     }
-    write_csv(args.output_dir / "a1_subject_width_summary.csv", subject_rows)
-    write_csv(args.output_dir / "a1_width_inference.csv", width_rows)
-    write_csv(args.output_dir / "a1_best_fixed_width_per_recipe.csv", best_rows)
-    (args.output_dir / "a1_summary.json").write_text(json.dumps(summary, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    write_csv(args.output_dir / "contamination-seed_subject_width_summary.csv", subject_rows)
+    write_csv(args.output_dir / "contamination-seed_width_inference.csv", width_rows)
+    write_csv(args.output_dir / "contamination-seed_best_fixed_width_per_recipe.csv", best_rows)
+    (args.output_dir / "contamination-seed_summary.json").write_text(json.dumps(summary, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     write_markdown(
-        args.output_dir / "a1_summary.md",
+        args.output_dir / "contamination-seed_summary.md",
         args=args,
         subjects=subjects,
         recipes=recipes,
@@ -664,7 +664,7 @@ def main() -> None:
         width_rows=width_rows,
         best_rows=best_rows,
     )
-    print(f"[written] {args.output_dir / 'a1_summary.md'}", flush=True)
+    print(f"[written] {args.output_dir / 'contamination-seed_summary.md'}", flush=True)
     print("[done]", flush=True)
 
 
