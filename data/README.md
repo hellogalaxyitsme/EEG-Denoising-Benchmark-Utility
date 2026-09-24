@@ -4,6 +4,8 @@ Dataset files are not included in this repository.
 
 The synthetic loaders expect each split directory to contain NumPy arrays for the contaminated signal, clean target, artifact target, and SNR/normalization metadata. The canonical split names are `train`, `val`, and `test`.
 
+EEGDenoiseNet targets are benchmark reference EEG, not direct artifact-free neural ground truth. In the EMG preparation, EMG artifact segments are split across train, validation, and test, while clean EEG sources can recur across those splits. Results on that preparation therefore do not establish generalization to unseen clean EEG sources.
+
 The training and reconstruction scripts use paths supplied in the config under `data`. The downstream BCI scripts accept explicit paths to BCI Competition IV-2a/IV-2b files and checkpoint directories through command-line arguments.
 
 Recommended local layout:
@@ -63,6 +65,8 @@ data/mixed1m/
 ```
 
 Each chunk contains `Y`, `X`, `A`, `sigma_y`, `snr_db`, `lambda`, `recipe_id`, `eog_used`, `emg_used`, `line_used`, `ecg_used`, `elec_used`, and source-index metadata. `Y`, `X`, and `A` are normalized by `std(Y_raw)` after artifact scaling.
+
+The source-level split prevents represented-source overlap across corpus partitions. Sources are reused within a partition to create many mixtures, so mixture rows are conditional draws from fixed source pools rather than biologically independent observations. The repository does not provide source-cluster confidence intervals for Mixed-1M.
 
 The recipe probabilities are:
 

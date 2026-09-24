@@ -128,6 +128,8 @@ python scripts/profile_model_complexity.py --output-dir runs/complexity_profile
 
 ## Reproducibility Notes
 
-The primary analysis treats human participants as the inferential unit: BCI IV-2a/IV-2b effects use nine subjects and Sleep-EDF effects use 75 subjects. Contamination realizations, denoiser checkpoints, channels, and classifier seeds are nuisance repetitions averaged or modelled within subject. The controlled reconstruction sweep has five EEGDenoiseNet seeds, while formal adjacent-width comparisons use the three matched seeds `42, 43, 44`; see `docs/REPRODUCIBILITY.md`.
+The primary analysis treats human participants as the inferential unit: BCI IV-2a/IV-2b effects use nine subjects and Sleep-EDF effects use 75 subjects. Contamination realizations, denoiser checkpoints, channels, and classifier seeds are technical repetitions that are averaged or modelled within subject.
 
-Scripts write JSON/CSV summaries under the requested `output_dir`; statistical aggregation scripts consume those scientific outputs. This release does not include recordings, checkpoints, or run archives.
+For the controlled EEGDenoiseNet reconstruction analysis, the two primary CC contrasts are EOG base8-to-base16 and EMG base6-to-base8. Each uses the five matched training seeds `42, 43, 44, 45, 46`. Other metric and adjacent-width comparisons use the matched three-seed set `42, 43, 44` as secondary sensitivity analyses. The full inferential design, independent statistical families, protocol windows, data limitations, and executable input requirements are in [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md).
+
+Scripts write JSON/CSV summaries under the requested `output_dir`; statistical aggregation scripts consume those scientific outputs. This release does not include recordings, checkpoints, or run archives, so it cannot reproduce the reported numerical results without authorized inputs and the corresponding checkpoints.
